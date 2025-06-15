@@ -1,22 +1,22 @@
 [
   {
     "name": "Смартфоны",
-    "slug": "/catalog/phone"
+    "slug": "/NewsPhone/#/catalog/phone"
   },
   {
     "name": "Гаджеты и устройства",
-    "slug": "/catalog/gadjetAndUstroisvtva"
+    "slug": "/NewsPhone/#/catalog/gadjetAndUstroisvtva"
   },
   {
     "name": "Технологии",
-    "slug": "/catalog/technologia"
+    "slug": "/NewsPhone/#/catalog/technologia"
   },
   {
     "name": "Камеры",
-    "slug": "/catalog/camera"
+    "slug": "/NewsPhone/#/catalog/camera"
   },
   {
     "name": "Приложения и софт",
-    "slug": "/catalog/program"
+    "slug": "/NewsPhone/#/catalog/program"
   }
 ]
