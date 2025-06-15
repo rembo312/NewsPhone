@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Смартфоны",
+    "slug": "/catalog/phone"
+  },
+  {
+    "name": "Гаджеты и устройства",
+    "slug": "/catalog/gadjetAndUstroisvtva"
+  },
+  {
+    "name": "Технологии",
+    "slug": "/catalog/technologia"
+  },
+  {
+    "name": "Камеры",
+    "slug": "/catalog/camera"
+  },
+  {
+    "name": "Приложения и софт",
+    "slug": "/catalog/program"
+  }
+]
